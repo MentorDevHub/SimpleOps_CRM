@@ -1,2 +1,2 @@
 # SimpleOps_CRM
-Beginner CRM templates &amp; automation examples.
+A simple, practical CRM template for learning basic operations and workflow organisation.
