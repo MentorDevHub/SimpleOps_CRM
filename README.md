@@ -1,5 +1,2 @@
 # SimpleOps_CRM
-A simple, practical CRM template for learning basic operations and workflow organisation.
-
-# Purpose
-To help beginners understand how CRMs work and give them a place to practise contributing to operational tools.
+SimpleOps-CRM is a practical CRM structure designed to help users understand basic operations and workflow organisation. It includes forms, templates, sample data and simple automation examples to support operational tasks.
